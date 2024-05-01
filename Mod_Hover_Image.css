@@ -1,5 +1,5 @@
 .data.image a{
-    overflow:visible
+    overflow:visible;
 }
 .data.image a:before{
     content:"";
